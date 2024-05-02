@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Javi
 
 # 💬 About Me ...
-I am a recent computer science graduate from the University of Minnesota. I'm passionate about all things coding, AI, and video games.
+I am a recent computer science graduate from the University of Minnesota. I'm passionate about all things coding, Artificial Intelligence, video games, and cats 🐈.
 
 ## 🔭 I’m currently working on ...
 - Learning Spring Boot to build a new web app
