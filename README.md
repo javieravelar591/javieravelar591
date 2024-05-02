@@ -13,7 +13,7 @@ I am a recent computer science graduate from the University of Minnesota. I'm pa
 
 ## 👨‍💻 Tech Stack
 Languages: 
-![Python](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)
+![Python](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png =100x20)
 ![Java](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
 ![JavaScript](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png)
 ![SQL](https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png)
