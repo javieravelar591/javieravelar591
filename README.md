@@ -13,7 +13,7 @@ I am a recent computer science graduate from the University of Minnesota. I'm pa
 
 ## 👨‍💻 Tech Stack
 Languages: 
-![Python]
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png)
 
 Developer Tools: 
 
