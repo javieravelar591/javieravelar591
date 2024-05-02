@@ -1,5 +1,3 @@
-<!--
-**javieravelar591/javieravelar591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👋 Hi, I'm Javi
 
 # 💬 About Me ...
@@ -23,4 +21,3 @@ Developer Tools:
 Libraries/Frameworks: 
 
 - ⚡ Fun fact: ...
--->
