@@ -35,4 +35,6 @@ Libraries/Frameworks: <br />
 <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="48" />
 <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="48" />
 
-- ⚡ Fun fact: ...
+## ⚡ Fun fact: ...
+- I was formerly Master tier in Overwatch 😎
+- My favorite sports to do are MMA and Skateboarding
