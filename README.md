@@ -9,7 +9,7 @@ I am a recent computer science graduate from the University of Minnesota. I'm pa
 
 ## 🔗 Some of my links
 * https://www.linkedin.com/in/javieravelar2023/
-* https://javieravelar591.github.io/my-portfolio/
+* https://www.linkedin.com/in/javi2024/
 
 ## 👨‍💻 Tech Stack
 Languages: <br />
